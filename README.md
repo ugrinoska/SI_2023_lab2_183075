@@ -3,4 +3,5 @@
 
 Марија Угриноска, бр. на индекс: 183075
 
-![Alt text](./TheLastOne.png)
+
+![TheLastOne](https://github.com/ugrinoska/SI_2023_lab2_183075/assets/103289941/04e7e911-ac1c-4533-9b5d-dbbd0cefb739)
